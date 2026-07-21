@@ -11,7 +11,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
 - **Password Hashing:** bcryptjs
 
 ## Features
- 
+  
 ### Auth
 - User registration with name, email and password
 - User login with email and password
