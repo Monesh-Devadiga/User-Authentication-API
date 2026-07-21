@@ -12,7 +12,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
  
 ## Features  
     
-### Auth 
+### Auth  
 - User registration with name, email and password
 - User login with email and password
 - JWT-based token authentication
