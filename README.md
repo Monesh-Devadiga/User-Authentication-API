@@ -109,7 +109,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
   "totalPages": 3,
   "data": [ ... ]
 }
-```
+``` 
 
 #### GET /api/students/:id
 **Response (200):** `{ "success": true, "data": { student } }`
