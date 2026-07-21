@@ -9,7 +9,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
 - **Database:** MongoDB with Mongoose ODM
 - **Authentication:** JSON Web Tokens (JWT)
 - **Password Hashing:** bcryptjs
-
+ 
 ## Features 
     
 ### Auth
