@@ -20,7 +20,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
 - Protected route (/api/auth/profile) requiring valid JWT
 
 ### Students
-- Create, read, update, delete students
+- Create, read, update and delete students
 - Full update (PUT) and partial update (PATCH)
 - Pagination via `?page=1&limit=10`
 - Filtering by status via `?status=active`
