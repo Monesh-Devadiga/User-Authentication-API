@@ -24,7 +24,7 @@ User Authentication API with JWT, bcrypt, registration, login, protected routes 
 - Full update (PUT) and partial update (PATCH)
 - Pagination via `?page=1&limit=10`
 - Filtering by status via `?status=active`
-
+ 
 ## Project Structure
 
 ```
