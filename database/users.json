@@ -1,0 +1,17 @@
+[{
+  "_id": { "$oid": "669b1a2e3c4d5e6f7a8b9c01" },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "$2a$12$examplehashedpasswordvalue123456789abcdef",
+  "createdAt": { "$date": "2026-07-20T21:00:00.000Z" },
+  "updatedAt": { "$date": "2026-07-20T21:00:00.000Z" },
+  "__v": 0
+},{
+  "_id": { "$oid": "669b1a2e3c4d5e6f7a8b9c02" },
+  "name": "Jane Smith",
+  "email": "jane@example.com",
+  "password": "$2a$12$examplehashedpasswordvalue987654321abcdef",
+  "createdAt": { "$date": "2026-07-20T21:00:00.000Z" },
+  "updatedAt": { "$date": "2026-07-20T21:00:00.000Z" },
+  "__v": 0
+}]
