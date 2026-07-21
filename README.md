@@ -1,4 +1,4 @@
-# Auth & Student API
+# User Authentication API
 
 User Authentication API with JWT, bcrypt, registration, login, protected routes and Student CRUD with pagination & filtering.
 
